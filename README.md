@@ -1,4 +1,4 @@
-### Hello, my name is Artur Wiederkehr, majoring in data science and artificial intelligence at PUCRS. Curious and interessed in programming.
+### Hello, my name is Artur Wiederkehr, majoring in data science and artificial intelligence at PUCRS. Curious and interesed in programming.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-wiederkehr-2059a71b0/)
 
